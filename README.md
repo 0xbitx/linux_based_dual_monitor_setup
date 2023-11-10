@@ -21,6 +21,8 @@ DisplayLink's technology allows users to connect additional monitors using unive
   | LED | POWER |
   | Power Consumption | 1W |
   | Working Standards | USB 3.0 5Gbps <br> HDMI DVI Video <br> DVI ( HDMI to DVI Adapter ) <br> Microphone Input and Earphone Output |
+  | Port compatibility | USB3.0 or USB2.0 |
+  | Display Mode | Primary <br> Extend <br> Mirror |
 
 </div>
 
