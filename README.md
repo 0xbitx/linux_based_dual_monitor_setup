@@ -64,3 +64,11 @@ sudo ./displaylink-debian.sh
   * PureOS: 9 Amber - 10 Byzantium
   * Nitrux: nitrux
   * Zorin: focal
+
+    
+## Support
+
+If you find my work helpful and want to support me, consider making a donation. Your contribution will help me continue working on open-source projects.
+
+**Bitcoin Address: `36ALguYpTgFF3RztL4h2uFb3cRMzQALAcm`**
+
