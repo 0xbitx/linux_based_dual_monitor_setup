@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/6470/6470284.png", width="500", height="500">
+</p>
 
 <h1 align="center"> LINUX BASED DUAL MONITOR SETUP </h1>
 
