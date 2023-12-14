@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/6470/6470284.png", width="500", height="500">
+<img src="https://cdn-icons-png.flaticon.com/512/6470/6470284.png", width="400", height="500">
 </p>
 
 <h1 align="center"> LINUX BASED DUAL MONITOR SETUP </h1>
@@ -11,7 +11,7 @@ DisplayLink's technology allows users to connect additional monitors using unive
 
 <h3 align="center"> PRODUCT </h3>
 <p align="center">
-<img src="https://c1.neweggimages.com/ProductImage/2VF-000E-00006-S01.jpg", width="600", height="600">
+<img src="https://github.com/0xbitx/linux_based_dual_monitor_setup/blob/main/product.png", width="600", height="600">
 </p>
 
 <h3 align="center"> PRODUCT SPECIFICATIONS</h3>
